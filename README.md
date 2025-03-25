@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kubanenczakdev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_fJ4b4JMsTVjMyvj5m6ogN4dkLqxcOTC/view?usp=sharing](https://drive.google.com/file/d/1_fJ4b4JMsTVjMyvj5m6ogN4dkLqxcOTC/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_fJ4b4JMsTVjMyvj5m6ogN4dkLqxcOTC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
