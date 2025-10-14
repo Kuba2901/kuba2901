@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">A passionate Backend & DevOps Engineer</h3>
 
-- 🔭 I’m currently working on [MunchMosaic](https://munchmosaic.cloud)
-
 - 🌱 I’m currently learning **DevOps & RAG**
 
 - 📫 How to reach me **kubanenczakdev@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1lDaW-Q2YCLCVXTQzneasD67oHytL7CLR0kW4qzBDdfM/edit?usp=share_link)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1dLE0SO-PfPKanp2kKxzgCfGHM2dda2R3wbCQPUeLEPE/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
