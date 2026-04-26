@@ -2,7 +2,7 @@
 Hi, I’m a developer who’s been passionate about programming since 2020. I mainly work with Flutter, Python, and Java (Spring), and I also have experience with C and C++.<br><br>I enjoy building mobile apps and designing backend systems, with a strong focus on architecture and scalability. One of my projects is a travel app where locals share their favorite spots to help travelers discover unique places.<br><br>I started as a self-taught developer, continued at 42 Roma Luiss, and I’m currently pursuing a degree in Robotics and Automatic Control in Poland, combining my interest in software with robotics. I’ve also worked professionally as a backend engineer for about a year.<br><br>I like working on challenging problems, learning new technologies, and building systems that are both efficient and practical.
 
 ## 📄 Resume:
-[![Resume](https://img.shields.io/badge/View%20Resume-000000?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1pvN9uGQZnMvSNAVUZMA2i_g0gTTxpnxy/view?usp=share_link)
+[![Resume](https://img.shields.io/badge/View%20Resume-000000?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1cJk_P9iCMoZl8_HiFL2Ud8xhi9SoAAWS/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jakub-nenczak-946742243) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kubanenczakdev@gmail.com) 
